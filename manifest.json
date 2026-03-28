@@ -1,0 +1,751 @@
+{
+  "set_code": "POR",
+  "max_number": 124,
+  "downloaded_at": "2026-03-28T00:05:11Z",
+  "cards": [
+    {
+      "number": 1,
+      "name": "Spinarak",
+      "page_url": "https://limitlesstcg.com/cards/POR/1",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_001_R_EN_SM.png"
+    },
+    {
+      "number": 2,
+      "name": "Ariados",
+      "page_url": "https://limitlesstcg.com/cards/POR/2",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_002_R_EN_SM.png"
+    },
+    {
+      "number": 3,
+      "name": "Shaymin",
+      "page_url": "https://limitlesstcg.com/cards/POR/3",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_003_R_EN_SM.png"
+    },
+    {
+      "number": 4,
+      "name": "Snivy",
+      "page_url": "https://limitlesstcg.com/cards/POR/4",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_004_R_EN_SM.png"
+    },
+    {
+      "number": 5,
+      "name": "Servine",
+      "page_url": "https://limitlesstcg.com/cards/POR/5",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_005_R_EN_SM.png"
+    },
+    {
+      "number": 6,
+      "name": "Serperior",
+      "page_url": "https://limitlesstcg.com/cards/POR/6",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_006_R_EN_SM.png"
+    },
+    {
+      "number": 7,
+      "name": "Scatterbug",
+      "page_url": "https://limitlesstcg.com/cards/POR/7",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_007_R_EN_SM.png"
+    },
+    {
+      "number": 8,
+      "name": "Spewpa",
+      "page_url": "https://limitlesstcg.com/cards/POR/8",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_008_R_EN_SM.png"
+    },
+    {
+      "number": 9,
+      "name": "Vivillon",
+      "page_url": "https://limitlesstcg.com/cards/POR/9",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_009_R_EN_SM.png"
+    },
+    {
+      "number": 10,
+      "name": "Rowlet",
+      "page_url": "https://limitlesstcg.com/cards/POR/10",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_010_R_EN_SM.png"
+    },
+    {
+      "number": 11,
+      "name": "Dartrix",
+      "page_url": "https://limitlesstcg.com/cards/POR/11",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_011_R_EN_SM.png"
+    },
+    {
+      "number": 12,
+      "name": "Decidueye ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/12",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_012_R_EN_SM.png"
+    },
+    {
+      "number": 13,
+      "name": "Fletchinder",
+      "page_url": "https://limitlesstcg.com/cards/POR/13",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_013_R_EN_SM.png"
+    },
+    {
+      "number": 14,
+      "name": "Talonflame",
+      "page_url": "https://limitlesstcg.com/cards/POR/14",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_014_R_EN_SM.png"
+    },
+    {
+      "number": 15,
+      "name": "Salandit",
+      "page_url": "https://limitlesstcg.com/cards/POR/15",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_015_R_EN_SM.png"
+    },
+    {
+      "number": 16,
+      "name": "Salazzle ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/16",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_016_R_EN_SM.png"
+    },
+    {
+      "number": 17,
+      "name": "Turtonator",
+      "page_url": "https://limitlesstcg.com/cards/POR/17",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_017_R_EN_SM.png"
+    },
+    {
+      "number": 18,
+      "name": "Seel",
+      "page_url": "https://limitlesstcg.com/cards/POR/18",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_018_R_EN_SM.png"
+    },
+    {
+      "number": 19,
+      "name": "Dewgong",
+      "page_url": "https://limitlesstcg.com/cards/POR/19",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_019_R_EN_SM.png"
+    },
+    {
+      "number": 20,
+      "name": "Staryu",
+      "page_url": "https://limitlesstcg.com/cards/POR/20",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_020_R_EN_SM.png"
+    },
+    {
+      "number": 21,
+      "name": "Mega Starmie ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/21",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_021_R_EN_SM.png"
+    },
+    {
+      "number": 22,
+      "name": "Lapras ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/22",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_022_R_EN_SM.png"
+    },
+    {
+      "number": 23,
+      "name": "Amaura",
+      "page_url": "https://limitlesstcg.com/cards/POR/23",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_023_R_EN_SM.png"
+    },
+    {
+      "number": 24,
+      "name": "Aurorus",
+      "page_url": "https://limitlesstcg.com/cards/POR/24",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_024_R_EN_SM.png"
+    },
+    {
+      "number": 25,
+      "name": "Volcanion",
+      "page_url": "https://limitlesstcg.com/cards/POR/25",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_025_R_EN_SM.png"
+    },
+    {
+      "number": 26,
+      "name": "Shinx",
+      "page_url": "https://limitlesstcg.com/cards/POR/26",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_026_R_EN_SM.png"
+    },
+    {
+      "number": 27,
+      "name": "Luxio",
+      "page_url": "https://limitlesstcg.com/cards/POR/27",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_027_R_EN_SM.png"
+    },
+    {
+      "number": 28,
+      "name": "Luxray",
+      "page_url": "https://limitlesstcg.com/cards/POR/28",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_028_R_EN_SM.png"
+    },
+    {
+      "number": 29,
+      "name": "Dedenne",
+      "page_url": "https://limitlesstcg.com/cards/POR/29",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_029_R_EN_SM.png"
+    },
+    {
+      "number": 30,
+      "name": "Clefairy",
+      "page_url": "https://limitlesstcg.com/cards/POR/30",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_030_R_EN_SM.png"
+    },
+    {
+      "number": 31,
+      "name": "Mega Clefable ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/31",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_031_R_EN_SM.png"
+    },
+    {
+      "number": 32,
+      "name": "Mawile",
+      "page_url": "https://limitlesstcg.com/cards/POR/32",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_032_R_EN_SM.png"
+    },
+    {
+      "number": 33,
+      "name": "Espurr",
+      "page_url": "https://limitlesstcg.com/cards/POR/33",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_033_R_EN_SM.png"
+    },
+    {
+      "number": 34,
+      "name": "Meowstic",
+      "page_url": "https://limitlesstcg.com/cards/POR/34",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_034_R_EN_SM.png"
+    },
+    {
+      "number": 35,
+      "name": "Spritzee",
+      "page_url": "https://limitlesstcg.com/cards/POR/35",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_035_R_EN_SM.png"
+    },
+    {
+      "number": 36,
+      "name": "Aromatisse",
+      "page_url": "https://limitlesstcg.com/cards/POR/36",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_036_R_EN_SM.png"
+    },
+    {
+      "number": 37,
+      "name": "Nosepass",
+      "page_url": "https://limitlesstcg.com/cards/POR/37",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_037_R_EN_SM.png"
+    },
+    {
+      "number": 38,
+      "name": "Probopass",
+      "page_url": "https://limitlesstcg.com/cards/POR/38",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_038_R_EN_SM.png"
+    },
+    {
+      "number": 39,
+      "name": "Hippopotas",
+      "page_url": "https://limitlesstcg.com/cards/POR/39",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_039_R_EN_SM.png"
+    },
+    {
+      "number": 40,
+      "name": "Hippowdon",
+      "page_url": "https://limitlesstcg.com/cards/POR/40",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_040_R_EN_SM.png"
+    },
+    {
+      "number": 41,
+      "name": "Landorus",
+      "page_url": "https://limitlesstcg.com/cards/POR/41",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_041_R_EN_SM.png"
+    },
+    {
+      "number": 42,
+      "name": "Binacle",
+      "page_url": "https://limitlesstcg.com/cards/POR/42",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_042_R_EN_SM.png"
+    },
+    {
+      "number": 43,
+      "name": "Barbaracle",
+      "page_url": "https://limitlesstcg.com/cards/POR/43",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_043_R_EN_SM.png"
+    },
+    {
+      "number": 44,
+      "name": "Tyrunt",
+      "page_url": "https://limitlesstcg.com/cards/POR/44",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_044_R_EN_SM.png"
+    },
+    {
+      "number": 45,
+      "name": "Tyrantrum",
+      "page_url": "https://limitlesstcg.com/cards/POR/45",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_045_R_EN_SM.png"
+    },
+    {
+      "number": 46,
+      "name": "Hawlucha",
+      "page_url": "https://limitlesstcg.com/cards/POR/46",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_046_R_EN_SM.png"
+    },
+    {
+      "number": 47,
+      "name": "Mega Zygarde ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/47",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_047_R_EN_SM.png"
+    },
+    {
+      "number": 48,
+      "name": "Gastly",
+      "page_url": "https://limitlesstcg.com/cards/POR/48",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_048_R_EN_SM.png"
+    },
+    {
+      "number": 49,
+      "name": "Haunter",
+      "page_url": "https://limitlesstcg.com/cards/POR/49",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_049_R_EN_SM.png"
+    },
+    {
+      "number": 50,
+      "name": "Gengar",
+      "page_url": "https://limitlesstcg.com/cards/POR/50",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_050_R_EN_SM.png"
+    },
+    {
+      "number": 51,
+      "name": "Skorupi",
+      "page_url": "https://limitlesstcg.com/cards/POR/51",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_051_R_EN_SM.png"
+    },
+    {
+      "number": 52,
+      "name": "Drapion",
+      "page_url": "https://limitlesstcg.com/cards/POR/52",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_052_R_EN_SM.png"
+    },
+    {
+      "number": 53,
+      "name": "Yveltal ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/53",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_053_R_EN_SM.png"
+    },
+    {
+      "number": 54,
+      "name": "Chien-Pao",
+      "page_url": "https://limitlesstcg.com/cards/POR/54",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_054_R_EN_SM.png"
+    },
+    {
+      "number": 55,
+      "name": "Mega Skarmory ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/55",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_055_R_EN_SM.png"
+    },
+    {
+      "number": 56,
+      "name": "Honedge",
+      "page_url": "https://limitlesstcg.com/cards/POR/56",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_056_R_EN_SM.png"
+    },
+    {
+      "number": 57,
+      "name": "Doublade",
+      "page_url": "https://limitlesstcg.com/cards/POR/57",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_057_R_EN_SM.png"
+    },
+    {
+      "number": 58,
+      "name": "Aegislash",
+      "page_url": "https://limitlesstcg.com/cards/POR/58",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_058_R_EN_SM.png"
+    },
+    {
+      "number": 59,
+      "name": "Klefki",
+      "page_url": "https://limitlesstcg.com/cards/POR/59",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_059_R_EN_SM.png"
+    },
+    {
+      "number": 60,
+      "name": "Rattata",
+      "page_url": "https://limitlesstcg.com/cards/POR/60",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_060_R_EN_SM.png"
+    },
+    {
+      "number": 61,
+      "name": "Raticate",
+      "page_url": "https://limitlesstcg.com/cards/POR/61",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_061_R_EN_SM.png"
+    },
+    {
+      "number": 62,
+      "name": "Meowth ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/62",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_062_R_EN_SM.png"
+    },
+    {
+      "number": 63,
+      "name": "Snorlax",
+      "page_url": "https://limitlesstcg.com/cards/POR/63",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_063_R_EN_SM.png"
+    },
+    {
+      "number": 64,
+      "name": "Bunnelby",
+      "page_url": "https://limitlesstcg.com/cards/POR/64",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_064_R_EN_SM.png"
+    },
+    {
+      "number": 65,
+      "name": "Diggersby",
+      "page_url": "https://limitlesstcg.com/cards/POR/65",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_065_R_EN_SM.png"
+    },
+    {
+      "number": 66,
+      "name": "Fletchling",
+      "page_url": "https://limitlesstcg.com/cards/POR/66",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_066_R_EN_SM.png"
+    },
+    {
+      "number": 67,
+      "name": "Furfrou",
+      "page_url": "https://limitlesstcg.com/cards/POR/67",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_067_R_EN_SM.png"
+    },
+    {
+      "number": 68,
+      "name": "Antique Jaw Fossil",
+      "page_url": "https://limitlesstcg.com/cards/POR/68",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_068_R_EN_SM.png"
+    },
+    {
+      "number": 69,
+      "name": "Antique Sail Fossil",
+      "page_url": "https://limitlesstcg.com/cards/POR/69",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_069_R_EN_SM.png"
+    },
+    {
+      "number": 70,
+      "name": "Core Memory",
+      "page_url": "https://limitlesstcg.com/cards/POR/70",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_070_R_EN_SM.png"
+    },
+    {
+      "number": 71,
+      "name": "Crushing Hammer",
+      "page_url": "https://limitlesstcg.com/cards/POR/71",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_071_R_EN_SM.png"
+    },
+    {
+      "number": 72,
+      "name": "Energy Search",
+      "page_url": "https://limitlesstcg.com/cards/POR/72",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_072_R_EN_SM.png"
+    },
+    {
+      "number": 73,
+      "name": "Energy Swatter",
+      "page_url": "https://limitlesstcg.com/cards/POR/73",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_073_R_EN_SM.png"
+    },
+    {
+      "number": 74,
+      "name": "Hole-Digging Shovel",
+      "page_url": "https://limitlesstcg.com/cards/POR/74",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_074_R_EN_SM.png"
+    },
+    {
+      "number": 75,
+      "name": "Jacinthe",
+      "page_url": "https://limitlesstcg.com/cards/POR/75",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_075_R_EN_SM.png"
+    },
+    {
+      "number": 76,
+      "name": "Judge",
+      "page_url": "https://limitlesstcg.com/cards/POR/76",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_076_R_EN_SM.png"
+    },
+    {
+      "number": 77,
+      "name": "Lumiose City",
+      "page_url": "https://limitlesstcg.com/cards/POR/77",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_077_R_EN_SM.png"
+    },
+    {
+      "number": 78,
+      "name": "Lumiose Galette",
+      "page_url": "https://limitlesstcg.com/cards/POR/78",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_078_R_EN_SM.png"
+    },
+    {
+      "number": 79,
+      "name": "Naveen",
+      "page_url": "https://limitlesstcg.com/cards/POR/79",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_079_R_EN_SM.png"
+    },
+    {
+      "number": 80,
+      "name": "Poké Ball",
+      "page_url": "https://limitlesstcg.com/cards/POR/80",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_080_R_EN_SM.png"
+    },
+    {
+      "number": 81,
+      "name": "Poké Pad",
+      "page_url": "https://limitlesstcg.com/cards/POR/81",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_081_R_EN_SM.png"
+    },
+    {
+      "number": 82,
+      "name": "Pokémon Catcher",
+      "page_url": "https://limitlesstcg.com/cards/POR/82",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_082_R_EN_SM.png"
+    },
+    {
+      "number": 83,
+      "name": "Potion",
+      "page_url": "https://limitlesstcg.com/cards/POR/83",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_083_R_EN_SM.png"
+    },
+    {
+      "number": 84,
+      "name": "Rosa&#039;s Encouragement",
+      "page_url": "https://limitlesstcg.com/cards/POR/84",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_084_R_EN_SM.png"
+    },
+    {
+      "number": 85,
+      "name": "Tarragon",
+      "page_url": "https://limitlesstcg.com/cards/POR/85",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_085_R_EN_SM.png"
+    },
+    {
+      "number": 86,
+      "name": "Growing Grass Energy",
+      "page_url": "https://limitlesstcg.com/cards/POR/86",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_086_R_EN_SM.png"
+    },
+    {
+      "number": 87,
+      "name": "Rocky Fighting Energy",
+      "page_url": "https://limitlesstcg.com/cards/POR/87",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_087_R_EN_SM.png"
+    },
+    {
+      "number": 88,
+      "name": "Telepathic Psychic Energy",
+      "page_url": "https://limitlesstcg.com/cards/POR/88",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_088_R_EN_SM.png"
+    },
+    {
+      "number": 89,
+      "name": "Spewpa",
+      "page_url": "https://limitlesstcg.com/cards/POR/89",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_089_R_EN_SM.png"
+    },
+    {
+      "number": 90,
+      "name": "Rowlet",
+      "page_url": "https://limitlesstcg.com/cards/POR/90",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_090_R_EN_SM.png"
+    },
+    {
+      "number": 91,
+      "name": "Talonflame",
+      "page_url": "https://limitlesstcg.com/cards/POR/91",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_091_R_EN_SM.png"
+    },
+    {
+      "number": 92,
+      "name": "Aurorus",
+      "page_url": "https://limitlesstcg.com/cards/POR/92",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_092_R_EN_SM.png"
+    },
+    {
+      "number": 93,
+      "name": "Dedenne",
+      "page_url": "https://limitlesstcg.com/cards/POR/93",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_093_R_EN_SM.png"
+    },
+    {
+      "number": 94,
+      "name": "Clefairy",
+      "page_url": "https://limitlesstcg.com/cards/POR/94",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_094_R_EN_SM.png"
+    },
+    {
+      "number": 95,
+      "name": "Espurr",
+      "page_url": "https://limitlesstcg.com/cards/POR/95",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_095_R_EN_SM.png"
+    },
+    {
+      "number": 96,
+      "name": "Probopass",
+      "page_url": "https://limitlesstcg.com/cards/POR/96",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_096_R_EN_SM.png"
+    },
+    {
+      "number": 97,
+      "name": "Drapion",
+      "page_url": "https://limitlesstcg.com/cards/POR/97",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_097_R_EN_SM.png"
+    },
+    {
+      "number": 98,
+      "name": "Doublade",
+      "page_url": "https://limitlesstcg.com/cards/POR/98",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_098_R_EN_SM.png"
+    },
+    {
+      "number": 99,
+      "name": "Raticate",
+      "page_url": "https://limitlesstcg.com/cards/POR/99",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_099_R_EN_SM.png"
+    },
+    {
+      "number": 100,
+      "name": "Decidueye ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/100",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_100_R_EN_SM.png"
+    },
+    {
+      "number": 101,
+      "name": "Salazzle ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/101",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_101_R_EN_SM.png"
+    },
+    {
+      "number": 102,
+      "name": "Mega Starmie ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/102",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_102_R_EN_SM.png"
+    },
+    {
+      "number": 103,
+      "name": "Mega Clefable ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/103",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_103_R_EN_SM.png"
+    },
+    {
+      "number": 104,
+      "name": "Mega Zygarde ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/104",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_104_R_EN_SM.png"
+    },
+    {
+      "number": 105,
+      "name": "Yveltal ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/105",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_105_R_EN_SM.png"
+    },
+    {
+      "number": 106,
+      "name": "Mega Skarmory ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/106",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_106_R_EN_SM.png"
+    },
+    {
+      "number": 107,
+      "name": "Meowth ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/107",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_107_R_EN_SM.png"
+    },
+    {
+      "number": 108,
+      "name": "Energy Recycler",
+      "page_url": "https://limitlesstcg.com/cards/POR/108",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_108_R_EN_SM.png"
+    },
+    {
+      "number": 109,
+      "name": "Forest of Vitality",
+      "page_url": "https://limitlesstcg.com/cards/POR/109",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_109_R_EN_SM.png"
+    },
+    {
+      "number": 110,
+      "name": "Jacinthe",
+      "page_url": "https://limitlesstcg.com/cards/POR/110",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_110_R_EN_SM.png"
+    },
+    {
+      "number": 111,
+      "name": "Lumiose City",
+      "page_url": "https://limitlesstcg.com/cards/POR/111",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_111_R_EN_SM.png"
+    },
+    {
+      "number": 112,
+      "name": "Naveen",
+      "page_url": "https://limitlesstcg.com/cards/POR/112",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_112_R_EN_SM.png"
+    },
+    {
+      "number": 113,
+      "name": "Poké Pad",
+      "page_url": "https://limitlesstcg.com/cards/POR/113",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_113_R_EN_SM.png"
+    },
+    {
+      "number": 114,
+      "name": "Rosa&#039;s Encouragement",
+      "page_url": "https://limitlesstcg.com/cards/POR/114",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_114_R_EN_SM.png"
+    },
+    {
+      "number": 115,
+      "name": "Sacred Ash",
+      "page_url": "https://limitlesstcg.com/cards/POR/115",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_115_R_EN_SM.png"
+    },
+    {
+      "number": 116,
+      "name": "Tarragon",
+      "page_url": "https://limitlesstcg.com/cards/POR/116",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_116_R_EN_SM.png"
+    },
+    {
+      "number": 117,
+      "name": "Wondrous Patch",
+      "page_url": "https://limitlesstcg.com/cards/POR/117",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_117_R_EN_SM.png"
+    },
+    {
+      "number": 118,
+      "name": "Mega Starmie ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/118",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_118_R_EN_SM.png"
+    },
+    {
+      "number": 119,
+      "name": "Mega Clefable ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/119",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_119_R_EN_SM.png"
+    },
+    {
+      "number": 120,
+      "name": "Mega Zygarde ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/120",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_120_R_EN_SM.png"
+    },
+    {
+      "number": 121,
+      "name": "Meowth ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/121",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_121_R_EN_SM.png"
+    },
+    {
+      "number": 122,
+      "name": "Jacinthe",
+      "page_url": "https://limitlesstcg.com/cards/POR/122",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_122_R_EN_SM.png"
+    },
+    {
+      "number": 123,
+      "name": "Rosa&#039;s Encouragement",
+      "page_url": "https://limitlesstcg.com/cards/POR/123",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_123_R_EN_SM.png"
+    },
+    {
+      "number": 124,
+      "name": "Mega Zygarde ex",
+      "page_url": "https://limitlesstcg.com/cards/POR/124",
+      "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_124_R_EN_SM.png"
+    }
+  ]
+}
